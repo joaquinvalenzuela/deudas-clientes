@@ -6,5 +6,5 @@ Luego de esto se debe abrir la carpeta problema2 en el editor de texto y en la c
 este comando ejecutara la API , una ves hecho esto , e debe ingresar a POSTMAN  y ejecutar la coleccion adjunta , para realizar las pruebas correspondientes.
 
 Para el problema numero 3 debe estar corriendo la api mencionada anteriormente, ademas de esto debe abrir la carpeta prueba3 en su editor de texto
-y en la consola ejecutar el comando npm start , una ves hecho esto aparecera en el navegador el listado de las Deudas de los clientes.
+y en la consola ejecutar el comando npm start , una ves hecho esto aparecera en el navegador el listado de las Deudas de los clientes en el cual se podra buscar las deudas tanto por el id del cliente como por la fecha de vencimiento de la deuda.
 
