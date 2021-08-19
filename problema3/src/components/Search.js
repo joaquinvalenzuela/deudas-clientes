@@ -17,7 +17,7 @@ const Search = ({filtrarTableCliente,filtrarTableDate}) => {
         <div className="row">
             <div className="col">
 
-                <input type="text" className="form-control" placeholder="Barra de busqueda" name="idCliente" onChange={handleChange} value={search.name}/>
+                <input type="text" className="form-control" placeholder="Buqueda por IDCliente" name="idCliente" onChange={handleChange} value={search.name}/>
 
 
             </div>
@@ -26,7 +26,7 @@ const Search = ({filtrarTableCliente,filtrarTableDate}) => {
             </div>
             <div className="col">
 
-                <input type="text" className="form-control" placeholder="Barra de busqueda" name="fechaVencimiento" onChange={handleChange} value={search.name}/>
+                <input type="text" className="form-control" placeholder="Busquedad por Fecha de Vencimiento" name="fechaVencimiento" onChange={handleChange} value={search.name}/>
 
         
             </div>
